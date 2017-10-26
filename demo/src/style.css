@@ -1,1 +1,4 @@
 @import url(~react-select/dist/react-select.css);
+html, body, #demo, #demo > div {
+  height: 100%;
+}

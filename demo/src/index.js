@@ -25,6 +25,8 @@ import {
 // import AddOrEditFeatureDialog from "../../src/helperComponents/AddOrEditFeatureDialog";
 import exampleSequenceData from "./exampleSequenceData";
 import StandaloneDemo from "./StandaloneDemo";
+import './style.css';
+
 // import _CutsiteProperties from "../../src/helperComponents/PropertiesDialog/CutsiteProperties";
 // import withEditorProps from "../../src/withEditorProps";
 // import _OrfProperties from "../../src/helperComponents/PropertiesDialog/OrfProperties";
